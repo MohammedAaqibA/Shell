@@ -1,2 +1,2 @@
 #GIT
-Scripts for testing in local
+Scripts for testing in local machine
